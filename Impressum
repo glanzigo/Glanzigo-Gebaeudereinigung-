@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Impressum</title>
+</head>
+<body>
+
+<h1>Impressum</h1>
+
+<p>
+Angaben gemäß § 5 TMG
+</p>
+
+<p>
+Max Mustermann<br>
+Reinigungsservice Muster<br>
+Musterstraße 12<br>
+12345 Berlin
+</p>
+
+<p>
+Telefon: 0176 12345678<br>
+E-Mail: info@reinigung-muster.de
+</p>
+
+<p>
+Umsatzsteuer-ID gemäß §27a Umsatzsteuergesetz:<br>
+DE123456789
+</p>
+
+<p><a href="index.html">← Zurück</a></p>
+
+</body>
+</html>

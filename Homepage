@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Reinigungsservice Muster – Berlin</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h1>Reinigungsservice in Berlin</h1>
+<p>Zuverlässige und günstige Reinigung für Privat- und Geschäftskunden.</p>
+
+<h2>Unsere Leistungen</h2>
+<ul>
+  <li>Haushaltsreinigung</li>
+  <li>Büroreinigung</li>
+  <li>Treppenhausreinigung</li>
+  <li>Endreinigung / Umzugsreinigung</li>
+</ul>
+
+<h2>Warum wir?</h2>
+<ul>
+  <li>Zuverlässig & pünktlich</li>
+  <li>Faire Preise</li>
+  <li>Flexible Termine</li>
+</ul>
+
+<p>
+  <strong>Kontakt:</strong><br>
+  <a href="kontakt.html">Jetzt E-Mail schreiben</a>
+</p>
+
+<hr>
+
+<p>
+  <a href="impressum.html">Impressum</a> |
+  <a href="datenschutz.html">Datenschutz</a>
+</p>
+
+</body>
+</html>
